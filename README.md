@@ -69,7 +69,7 @@ Para prever os dados do novo dataset:
 1. Carregue o novo dataset.
 2. Aplique as mesmas etapas de pré-processamento.
 3. Use o modelo treinado para fazer previsões.
-4. Aplique o threshold para obter as classes preditas.
+4. Aplique o threshold.
 
 ## Conclusão
 
